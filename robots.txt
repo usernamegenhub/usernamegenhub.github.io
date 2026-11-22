@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usernamegenhub.github.io/sitemap.xml
